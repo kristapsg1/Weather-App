@@ -7,7 +7,7 @@ This is a Weather App writen in Vanila JS, where you can enter any city in the w
 ## Run the project
 
 1. Clone the repository to your local machine.
-2. Open `index.html` in your browser to start the application.
+2. Open `index.html` in your browser to start the application. (I am using "Live Server" extencion)
 
 ## Usage + Instructions
 
